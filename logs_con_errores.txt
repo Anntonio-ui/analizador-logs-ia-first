@@ -1,0 +1,9 @@
+[INFO] 2025-01-10 User logged in
+[ERROR] 2025-02-30 Failed to connect to database
+[WARNING] Invalid password attempt
+[DEBUG] 2025-01-11 Debug mode enabled
+[INFO]
+ERROR 2025-01-12 Missing brackets
+
+[ERROR] 2025-13-01 Invalid month
+[WARNING] 2025-01-15 Low memory detected

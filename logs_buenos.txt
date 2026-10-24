@@ -1,0 +1,6 @@
+[INFO] 2025-01-10 User logged in
+[ERROR] 2025-01-10 Failed to connect to database
+[WARNING] 2025-01-11 Invalid password attempt
+[INFO] 2025-01-12 Application started
+[WARNING] 2025-01-12 Disk usage above recommended level
+[INFO] System check completed
